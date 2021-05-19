@@ -33,7 +33,7 @@ l2.pack(pady=12 )
 
 #Important Label Options
 #text = adds the text
-#bd = background
+#bg = background
 #fg = foreground
 #font = sets the font. font can be done in two ways i.e, by touple method and by string method
 # 1) touple method -> font=("verdana", 9, "bold")
